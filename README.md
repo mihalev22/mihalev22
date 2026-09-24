@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
 <img src="https://img.shields.io/badge/AI_агенты-8B5CF6?style=flat-square&logo=openai&logoColor=white" alt="AI">
 
-**[🛠 Визитка, услуги и цены](https://mihalev22.github.io/portfolio/)** &nbsp;·&nbsp; **[✈️ Telegram](https://t.me/mihalev_develop)**
+**[✈️ Написать в Telegram](https://t.me/mihalev_develop)**
 
 </div>
 
@@ -48,8 +48,10 @@
 
 ### Открыт к заказам
 
-Лендинги под ключ, Telegram-боты, починка и пересборка сайтов, AI-автоматизация рутины.
+Лендинги под ключ · Telegram-боты · починка и пересборка сайтов · AI-автоматизация рутины
 
-**[→ Примеры работ и цены](https://mihalev22.github.io/portfolio/)** · **[→ Написать в Telegram](https://t.me/mihalev_develop)**
+Беру задачи под ключ: от «нужен сайт» до «работает и приносит заявки».
+
+**[→ Написать в Telegram](https://t.me/mihalev_develop)**
 
 </div>
